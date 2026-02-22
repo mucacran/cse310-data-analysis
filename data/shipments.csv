@@ -1,0 +1,51 @@
+shipment_id,date,origin_city,destination_city,container_type,weight_tons,distance_km,cost_usd,status,carrier
+S001,2026-01-05,Guayaquil,Quito,40HC,18,420,3200,Delivered,TransEcuador
+S002,2026-01-06,Quito,Guayaquil,20GP,12,420,2100,Delivered,AndesCargo
+S003,2026-01-08,Guayaquil,Cuenca,40HC,20,190,1800,Delivered,TransEcuador
+S004,2026-01-10,Manta,Quito,20GP,10,390,2000,In Transit,PacificLog
+S005,2026-01-11,Durán,Santo Domingo,40HC,22,280,2500,Delivered,AndesCargo
+S006,2026-01-12,Quito,Manta,20GP,14,390,1950,Delivered,TransEcuador
+S007,2026-01-14,Guayaquil,Cuenca,20GP,11,190,1500,Cancelled,PacificLog
+S008,2026-01-15,Cuenca,Quito,40HC,19,310,2400,Delivered,AndesCargo
+S009,2026-01-16,Santo Domingo,Guayaquil,20GP,13,270,1750,Delivered,TransEcuador
+S010,2026-01-18,Quito,Durán,40HC,21,420,3300,Delivered,PacificLog
+S011,2026-01-20,Guayaquil,Machala,20GP,9,180,1400,Delivered,AndesCargo
+S012,2026-01-21,Machala,Quito,40HC,23,530,3700,Delivered,TransEcuador
+S013,2026-01-22,Quito,Cuenca,20GP,15,310,2100,Delivered,PacificLog
+S014,2026-01-23,Cuenca,Guayaquil,40HC,24,190,2000,Delivered,AndesCargo
+S015,2026-01-24,Guayaquil,Santo Domingo,20GP,16,270,1800,Delivered,TransEcuador
+S016,2026-01-25,Santo Domingo,Quito,40HC,20,280,2600,Delivered,PacificLog
+S017,2026-01-26,Manta,Guayaquil,20GP,12,180,1350,Delivered,AndesCargo
+S018,2026-01-27,Quito,Machala,40HC,25,530,3900,Delivered,TransEcuador
+S019,2026-01-28,Durán,Quito,20GP,10,420,2050,Delivered,PacificLog
+S020,2026-01-29,Guayaquil,Quito,40HC,22,420,3500,Delivered,AndesCargo
+S021,2026-02-01,Quito,Cuenca,20GP,13,310,2200,Delivered,TransEcuador
+S022,2026-02-02,Cuenca,Manta,40HC,19,350,2700,Delivered,PacificLog
+S023,2026-02-03,Machala,Guayaquil,20GP,8,180,1300,Delivered,AndesCargo
+S024,2026-02-04,Quito,Santo Domingo,40HC,21,280,2550,Delivered,TransEcuador
+S025,2026-02-05,Santo Domingo,Machala,20GP,14,450,2400,In Transit,PacificLog
+S026,2026-02-06,Guayaquil,Cuenca,40HC,23,190,2100,Delivered,AndesCargo
+S027,2026-02-07,Manta,Quito,20GP,12,390,2000,Delivered,TransEcuador
+S028,2026-02-08,Quito,Durán,40HC,24,420,3600,Delivered,PacificLog
+S029,2026-02-09,Durán,Guayaquil,20GP,11,30,900,Delivered,AndesCargo
+S030,2026-02-10,Guayaquil,Manta,40HC,20,180,1700,Delivered,TransEcuador
+S031,2026-02-11,Quito,Cuenca,20GP,13,310,2150,Delivered,PacificLog
+S032,2026-02-12,Cuenca,Quito,40HC,22,310,2600,Delivered,AndesCargo
+S033,2026-02-13,Guayaquil,Quito,20GP,10,420,2200,Delivered,TransEcuador
+S034,2026-02-14,Quito,Guayaquil,40HC,25,420,3800,Delivered,PacificLog
+S035,2026-02-15,Machala,Cuenca,20GP,15,480,2600,Delivered,AndesCargo
+S036,2026-02-16,Cuenca,Machala,40HC,23,480,3000,Delivered,TransEcuador
+S037,2026-02-17,Guayaquil,Santo Domingo,20GP,12,270,1750,Delivered,PacificLog
+S038,2026-02-18,Santo Domingo,Quito,40HC,20,280,2650,Delivered,AndesCargo
+S039,2026-02-19,Quito,Manta,20GP,14,390,2100,Delivered,TransEcuador
+S040,2026-02-20,Manta,Guayaquil,40HC,21,180,1900,Delivered,PacificLog
+S041,2026-02-21,Guayaquil,Cuenca,20GP,11,190,1550,Delivered,AndesCargo
+S042,2026-02-22,Quito,Santo Domingo,40HC,22,280,2750,Delivered,TransEcuador
+S043,2026-02-23,Durán,Quito,20GP,13,420,2150,Delivered,PacificLog
+S044,2026-02-24,Machala,Quito,40HC,24,530,4000,Delivered,AndesCargo
+S045,2026-02-25,Cuenca,Guayaquil,20GP,9,190,1450,Delivered,TransEcuador
+S046,2026-02-26,Quito,Machala,40HC,25,530,4100,Delivered,PacificLog
+S047,2026-02-27,Guayaquil,Manta,20GP,12,180,1500,Delivered,AndesCargo
+S048,2026-02-28,Manta,Cuenca,40HC,23,350,2850,Delivered,TransEcuador
+S049,2026-03-01,Quito,Durán,20GP,10,420,2100,Delivered,PacificLog
+S050,2026-03-02,Guayaquil,Quito,40HC,26,420,4200,Delivered,AndesCargo

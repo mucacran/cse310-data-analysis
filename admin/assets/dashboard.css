@@ -1,0 +1,28 @@
+.cse310-grid {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    margin: 16px 0 20px;
+}
+
+.cse310-card {
+    padding: 16px;
+}
+
+.cse310-label {
+    margin: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    opacity: 0.8;
+}
+
+.cse310-value {
+    margin: 6px 0 0;
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.cse310-section {
+    margin-top: 24px;
+}
